@@ -1,0 +1,12 @@
+FIFO Simulation 
+
+      Arriving: 2 pages from one at 1 seconds
+      Servicing: 2 pages from one at 1 seconds
+      Arriving: 2 pages from two at 3 seconds
+      Servicing: 2 pages from two at 3 seconds
+      Arriving: 2 page from three at 7 seconds
+      Servicing: 2 pages from three at 7 seconds
+
+      Total jobs: 3
+      Aggregate latency: 0 seconds 
+      Mean latency: 0 seconds 
